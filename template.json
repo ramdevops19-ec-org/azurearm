@@ -32,7 +32,7 @@
         },
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class10",
+            "name": "azuretemplatenov17",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "sku": {
@@ -43,18 +43,7 @@
         },
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class100",
-            "apiVersion": "2017-06-01",
-            "location": "eastus",
-            "sku": {
-                "name": "Standard_LRS"
-            },
-            "kind": "Storage",
-            "properties": {}
-        },
-        {
-            "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class200",
+            "name": "azuretemplatenov143",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "sku": {
@@ -63,5 +52,6 @@
             "kind": "Storage",
             "properties": {}
         }
+        
     ]
 }
