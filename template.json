@@ -29,6 +29,28 @@
                     }
                 ]
             }
-        }
+        },
+        {
+            "type": "Microsoft.Storage/storageAccounts",
+            "name": "ramazurestorage28class1",
+            "apiVersion": "2017-06-01",
+            "location": "eastus",
+            "sku": {
+              "name": "Standard_LRS"
+            },
+            "kind": "Storage",
+            "properties": {}
+          },
+          {
+            "type": "Microsoft.Storage/storageAccounts",
+            "name": "ramazurestorage28class143",
+            "apiVersion": "2017-06-01",
+            "location": "eastus",
+            "sku": {
+              "name": "Standard_LRS"
+            },
+            "kind": "Storage",
+            "properties": {}
+          }
     ]
 }
