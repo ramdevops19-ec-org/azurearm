@@ -4,7 +4,7 @@
     "resources": [
         {
             "type": "Microsoft.Network/virtualNetworks",
-            "name": "AUDIQ8-VNET1",
+            "name": "AZUREB7-VNET1",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "comments": "This will build a Virtual Network.",
@@ -32,7 +32,7 @@
         },
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class1",
+            "name": "ramazurestorage28class10",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "sku": {
@@ -43,7 +43,7 @@
         },
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class143",
+            "name": "ramazurestorage28class100",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "sku": {
@@ -54,7 +54,7 @@
         },
         {
             "type": "Microsoft.Storage/storageAccounts",
-            "name": "ramazurestorage28class1173",
+            "name": "ramazurestorage28class200",
             "apiVersion": "2017-06-01",
             "location": "eastus",
             "sku": {
